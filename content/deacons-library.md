@@ -1,5 +1,5 @@
 +++
-title = 'A Deacon's Personal Libraryj'
+title = "A Deacon's Personal Library"
 date = 2023-07-01 
 draft = false 
 +++
