@@ -1,5 +1,5 @@
 languageCode: en-us
-title: TDH
+title: Tim Hopper
 theme: ["PaperMod"]
 
 outputs:
@@ -10,7 +10,7 @@ outputs:
 
 params:
   homeInfoParams:
-    title: TDH
+    title: Tim Hopper
     Content: |
       Welcome to my blog. I'm dedicated to serving Christ, committed as a husband,
       father, and deacon within the Orthodox Presbyterian Church. Here, you'll find a
