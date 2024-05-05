@@ -2,3 +2,9 @@ baseURL: https://th.ulsterworldly.com/
 languageCode: en-us
 title: Olney
 theme: ["PaperMod"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
