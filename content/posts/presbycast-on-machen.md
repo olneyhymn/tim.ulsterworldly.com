@@ -1,5 +1,5 @@
 +++
-title = 'Walking Alongside People in the Church???'
+title = 'Chicken Sandwiches, Machen, and More???'
 date = 2019-08-30 
 draft = false 
 +++
