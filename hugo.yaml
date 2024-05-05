@@ -1,6 +1,5 @@
-baseURL: https://th.ulsterworldly.com/
 languageCode: en-us
-title: Olney
+title: TDH
 theme: ["PaperMod"]
 
 outputs:
@@ -11,9 +10,16 @@ outputs:
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    title: TDH
+    Content: |
+      Welcome to my blog. I'm dedicated to serving Christ, committed as a husband,
+      father, and deacon within the Orthodox Presbyterian Church. Here, you'll find a
+      collection of my theological writings and links to podcasts where I've shared my
+      insights. While primarily organized for my own reference, I aim for these
+      resources to be beneficial to others too.
 
+
+      > ...for building up the body of Christ, until we all attain to the unity of the faith...
 languages:
   en:
     languageName: "English"
