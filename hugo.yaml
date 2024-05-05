@@ -1,7 +1,11 @@
 baseURL: https://th.ulsterworldly.com/
 languageCode: en-us
 title: Olney
-theme: ["PaperMod"]
+theme: ["ed"]
+
+module:
+  imports:
+    - path: github.com/sergeyklay/gohugo-theme-ed
 
 outputs:
   home:
