@@ -1,5 +1,5 @@
 +++
-title = 'Walking Alongside People in the Church'
+title = 'Mortification of Spin on the Diaconate'
 date = 2023-10-25 
 draft = false 
 +++
