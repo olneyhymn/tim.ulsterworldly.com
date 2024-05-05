@@ -1,7 +1,7 @@
 baseURL: https://th.ulsterworldly.com/
 languageCode: en-us
 title: Olney
-theme: ["ed"]
+theme: ["github.com/sergeyklay/gohugo-theme-ed"]
 
 module:
   imports:
