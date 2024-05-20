@@ -1,6 +1,6 @@
 ---
 title: Who Can Condemn?
-date: 1907-12-01T12:30:00.000Z
+date: 2017-12-31T12:30:00.000Z
 ---
 *These are my notes for a lesson on Psalm 46 that I taught at a nursing home in Raleigh, NC, in December 2017.*
 
