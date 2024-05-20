@@ -1,15 +1,12 @@
-
-+++
-title = 'Who Can Condemn?'
-date = 2017-12-01
-draft = false
-+++
-
-_These are my notes for a lesson I taught on Psalm 46 at a nursing home in Raleigh, NC in December 2017._
+---
+title: Who Can Condemn?
+date: 1907-12-01T12:30:00.000Z
+---
+*These are my notes for a lesson on Psalm 46 that I taught at a nursing home in Raleigh, NC, in December 2017.*
 
 **Romans 8:33-34**
 
-Who shall bring any charge against God\'s elect? It is God who
+Who shall bring any charge against God's elect? It is God who
 justifies. Who is to condemn? Christ Jesus is the one who died---more
 than that, who was raised---who is at the right hand of God, who indeed
 is interceding for us.
@@ -46,10 +43,10 @@ We learn about the scope of Christ's present work throughout Scripture.
 • Christ dwells in us. *It is no longer I who live, but Christ who lives
 in me.* Galatians 2
 
-• Christ rules sovereignly over all things. *\[God\] put all things
+• Christ rules sovereignly over all things. *\[God] put all things
 under his feet*. Ephesians 1
 
-• Christ reigns over his church *\[God\] gave him as head over all
+• Christ reigns over his church *\[God] gave him as head over all
 things to the church.* Ephesians 1.
 
 • He reveals to the church by His Word and Spirit the will of God.
@@ -91,7 +88,7 @@ of the whole world.*"
 
 Hebrews tells us that though this life seems long and trying, though our
 indwelling sin wears us down, though our churches face difficulties,
-though our bodies fail us "*\[Christ\] is able to save to the uttermost
+though our bodies fail us "*\[Christ] is able to save to the uttermost
 those who draw near to God through him, since he always lives to make
 intercession for them.*"
 
@@ -149,7 +146,7 @@ for us.
 ⁃ John Murray: "*The heavenly intercession is a messianic function just
 as truly as was his propitiatory offering. It is therefore conducted in
 pursuance of the economy of salvation. ... Just as the propitiation is
-the provision of the Father\'s love, so must we say that the
+the provision of the Father's love, so must we say that the
 intercession is also.*"
 
 ⁃ Jesus is God! Our intercession is offered by God himself.
@@ -167,9 +164,9 @@ intercession for them.*
 ⁃ Brings us full assurance and access to the thrown of grace:
 
 ⁃ Hebrews 10: "Having, therefore, brethren boldness to enter into the
-holiest by the blood of Jesus\... and having a high priest over the
+holiest by the blood of Jesus... and having a high priest over the
 house of God, let us draw near with a true heart in full assurance of
-faith\"
+faith"
 
 ⁃ Christian, do you make full use of this access?
 
@@ -235,14 +232,14 @@ will exult over you with loud singing. (Zeph 3)
 ⁃ Hebrews 2: Therefore he had to be made like his brothers in every
 respect, so that he might become a merciful and faithful high priest in
 the service of God, to make propitiation for the sins of the
-people. ** **For because he himself has suffered when tempted, he is
+people. \*\* \*\*For because he himself has suffered when tempted, he is
 able to help those who are being tempted.
 
 ⁃ Christ intercedes for us as one who knows what is to be tempted.
 
 ⁃ Stephen Charnock: "it is the top of our comfort that he is in heaven a
 pleader, as it was the foundation of our comfort that he was once on
-earth a sufferer\"
+earth a sufferer"
 
 **Application**
 
