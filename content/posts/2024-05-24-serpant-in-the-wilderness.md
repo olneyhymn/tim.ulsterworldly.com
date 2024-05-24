@@ -1,6 +1,6 @@
 ---
 title: Serpant in the Wilderness
-date: 2024-05-23T22:24:00.000Z
+date: 2008-12-31T18:24:00.000Z
 ---
 *The following is a lesson I taught at [Wears Valley Ranch](http://wvr.org) in 2008.*
 
