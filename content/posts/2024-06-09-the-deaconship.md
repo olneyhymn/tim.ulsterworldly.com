@@ -1,6 +1,6 @@
 ---
 title: '"The Deaconship"'
-date: 2024-06-09T15:13:00.000Z
+date: 2020-06-05T11:13:00.000Z
 ---
 My edited and newly typeset version of John G. Lorimer's work [The
 Deaconship](https://amzn.to/2U84I1F) is now available in paperback on Amazon.
