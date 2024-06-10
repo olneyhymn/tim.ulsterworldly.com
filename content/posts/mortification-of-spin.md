@@ -6,3 +6,5 @@ draft: false
 The [Moritifaction of Spin](https://www.alliancenet.org/mos) podcast invited me and my friend David Nakhla to discuss diaconal ministry in the OPC.
 
 You can listen [here](https://mortificationofspin.podbean.com/e/the-reformed-deacon/).
+
+{{< youtube p3WKcAxmJU8 >}}
