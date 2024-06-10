@@ -1,15 +1,15 @@
 ---
-title: Who Can Condemn?
+title: Lesson on Romans 8
 date: 2017-12-31T12:30:00.000Z
 ---
-*These are my notes for a lesson on Psalm 46 that I taught at a nursing home in Raleigh, NC, in December 2017.*
+*These are my notes for a lesson on Romans 8:33-34 that I taught at a nursing home in Raleigh, NC, in December 2017.*
 
 **Romans 8:33-34**
 
-Who shall bring any charge against God's elect? It is God who
-justifies. Who is to condemn? Christ Jesus is the one who died---more
-than that, who was raised---who is at the right hand of God, who indeed
-is interceding for us.
+> Who shall bring any charge against God's elect? It is God who
+> justifies. Who is to condemn? Christ Jesus is the one who died---more
+> than that, who was raised---who is at the right hand of God, who indeed
+> is interceding for us.
 
 Why did Christ come to earth as a man?
 
