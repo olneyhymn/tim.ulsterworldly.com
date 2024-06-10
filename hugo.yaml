@@ -15,6 +15,7 @@ outputs:
 
 params:
   footer:
+    hideCopyright: true
     text: |
       [readmachen.com](https://readmachen.com) ·
       [ulsterworldly.com](https://ulsterworldly.com) ·
