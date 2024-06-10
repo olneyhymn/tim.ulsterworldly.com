@@ -4,7 +4,7 @@ date: 2011-05-23T22:43:00.000Z
 ---
 *I prepared these notes for a study with a friend in 2011.*
 
-These notes are based on  "Our Lord's View of the Old Testament" by J. W. Wenham: <http://www.the-highway.com/Scripture_Wenham.html>
+These notes are based on  "[Our Lord's View of the Old Testament](http://www.the-highway.com/Scripture_Wenham.html)" by J. W. Wenham.
 
 ## References to Old Testament Narratives:
 
