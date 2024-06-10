@@ -2,6 +2,10 @@ languageCode: en-us
 title: For Building Up the Body of Christ
 theme: ["PaperMod"]
 
+markup:
+  goldmark:
+    unsafe: false
+
 outputs:
   home:
     - HTML
