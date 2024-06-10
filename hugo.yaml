@@ -4,7 +4,7 @@ theme: ["PaperMod"]
 
 markup:
   goldmark:
-    unsafe: false
+    unsafe: true
 
 outputs:
   home:
