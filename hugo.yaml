@@ -9,6 +9,8 @@ outputs:
     - JSON # necessary for search
 
 params:
+  images:
+  - main-image.png
   homeInfoParams:
     title: Writings and Audio from Tim Hopper
     Content: |
