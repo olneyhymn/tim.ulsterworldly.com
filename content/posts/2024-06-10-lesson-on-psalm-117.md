@@ -1,6 +1,9 @@
 ---
 title: Lesson on Psalm 117
 date: 2016-03-20T21:18:00.000Z
+tags:
+    - Bible
+    - Homily
 ---
 *These are my notes for a lesson I taught on Psalm 117 at a nursing home in Raleigh, NC on March 20, 2016.*
 

@@ -1,6 +1,9 @@
 ---
 title: Qualifications for Deacons
 date: 2018-11-27T22:51:00.000Z
+tags:
+  - Lecture
+  - Diaconate
 ---
 *The following are notes from a lesson I taught to our men's leadership class at Shiloh Presbyterian Church in 2018. [You can listen to the audio of the session here](https://www.sermonaudio.com/solo/shiloh/sermons/99117182130480/).*
 

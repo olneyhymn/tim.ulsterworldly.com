@@ -1,6 +1,9 @@
 ---
 title: Lesson on Romans 8
 date: 2017-12-31T12:30:00.000Z
+tags:
+  - Homily
+  - Bible
 ---
 *These are my notes for a lesson on Romans 8:33-34 that I taught at a nursing home in Raleigh, NC, in December 2017.*
 

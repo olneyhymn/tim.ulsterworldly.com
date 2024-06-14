@@ -1,8 +1,11 @@
-+++
-title = 'Lesson on Psalm 46'
-date = 2016-12-11 
-draft = false 
-+++
+---
+title: 'Lesson on Psalm 46'
+date: 2016-12-11
+draft: false
+tags:
+    - Homily
+    - Bible
+---
 
 _These are my notes for a lesson I taught on Psalm 46 at a nursing home in Raleigh, NC on December 11, 2016._
 

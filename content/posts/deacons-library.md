@@ -1,8 +1,8 @@
-+++
-title = "A Deacon's Personal Library"
-date = 2023-07-01 
-draft = false 
-+++
+---
+title: "A Deacon's Personal Library"
+date: 2023-07-01
+draft: false
+---
 
 On the [OPC Committee on Diaconal Ministries](https://opccdm.org) podcast, I interviewed
 my friend Rev. Dr. C. N. Willborn about books a deacon should have in his library.

@@ -1,6 +1,10 @@
 ---
 title: Readings in the Reformed Diaconate
 date: 2015-05-10T15:11:00.000Z
+tags:
+    - Diaconate
+    - Bibliography
+    - Website
 ---
 The Reformed churches have always held the office of deacon as essential to the church's life. Following the pattern of Acts 6, our churches have sought to find "men of good repute, full of the Spirit and of wisdom" to serve the physical needs of the church so our elders can devote themselves to "to prayer and to the ministry of the word."
 

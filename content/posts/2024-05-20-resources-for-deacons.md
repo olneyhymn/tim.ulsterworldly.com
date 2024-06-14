@@ -1,6 +1,9 @@
 ---
 title: Resources for Deacons
 date: 2018-04-07T16:33:00.000Z
+tags:
+    - Diaconate
+    - Lecture
 ---
 At the OPC Presbytery of the Southeast conference for deacons, I spoke on "Resources for Deacons."
 

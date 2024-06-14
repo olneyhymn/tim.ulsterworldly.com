@@ -1,8 +1,11 @@
 ---
 title: Sunday School Series on the Doctrine and Practice of Christian Prayer
 date: 2010-07-11T22:34:00.000Z
+tags:
+    - Sunday School Class
+    - Bible
 ---
-I taught the adult Sunday school class on prayer at Providence OPC in Charlottesville, Virginia, during the summer of 2010. 
+I taught the adult Sunday school class on prayer at Providence OPC in Charlottesville, Virginia, during the summer of 2010.
 
 [You can see the notes from my class here.](/hopper-doctrine-and-practice-of-christian-prayer.pdf)
 

@@ -1,10 +1,14 @@
-+++
-title = 'He is a New Creation'
-date = 2015-12-06
-draft = false
-+++
+---
+title: 'He is a New Creation'
+date: 2015-12-06
+draft: false
+tags:
+ - Bible
+ - Homily
+---
 
 _These are my notes for a lesson I taught on 2 Corinthians 5:17 at a nursing home in Raleigh, NC on December 6, 2015._
+
 > __Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come. - 2 Corinthians 5:17__
 
 * Days of Creation — Genesis 1

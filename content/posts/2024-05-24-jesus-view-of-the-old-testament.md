@@ -1,6 +1,8 @@
 ---
 title: Jesus' View of the Old Testament
 date: 2011-05-23T22:43:00.000Z
+tags:
+    - Bible
 ---
 *I prepared these notes for a study with a friend in 2011.*
 

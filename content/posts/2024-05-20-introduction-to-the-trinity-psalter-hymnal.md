@@ -1,12 +1,14 @@
 ---
 title: Introduction to the Trinity Psalter Hymnal
 date: 2018-07-29T08:23:00.000Z
+tags:
+    - Sunday School Class
 ---
 As our church moved to the [Trinity Psalter Hymnal](https://www.trinitypsalterhymnal.org), I gave a brief history of Reformed hymnals and an overview of the TPH. You can listen [here](https://www.sermonaudio.com/solo/shiloh/sermons/9972918145400/).
 
 <iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/9972918145400/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
 
-Some resources I used in preparation: 
+Some resources I used in preparation:
 
 - [A Quick First Glance at the Trinity Psalter Hymnal by Ligon Duncan](https://ligonduncan.com/a-quick-first-glance-at-the-trinity-psalter-hymnal-2018/)
 - [Reflections On The 2018 Trinity Psalter Hymnal by Shane Lems](https://reformedreader.wordpress.com/2018/06/14/reflections-on-the-2018-trinity-psalter-hymnal-opc-urc/)
