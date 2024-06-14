@@ -13,6 +13,9 @@ outputs:
     - RSS
     - JSON # necessary for search
 
+taxonomies:
+  tag: tags
+
 params:
   footer:
     hideCopyright: true
