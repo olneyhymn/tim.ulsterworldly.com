@@ -51,9 +51,6 @@ languages:
         - name: Search
           url: search/
           weight: 10
-        - name: Quotes
-          url: https://quotes.ulsterworldly.com
-          weight: 11
-        - name: Presbyterian History Blog
-          url: https://ulsterworldly.com
-          weight: 12
+        - name: Tags
+          url: tags
+          weight: 1
