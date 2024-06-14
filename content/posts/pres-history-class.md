@@ -1,10 +1,10 @@
 ---
-title: "Sunday school class on American Presbyterian History"
+title: Sunday school class on American Presbyterian History
 date: 2022-12-29
 draft: false
 tags:
-    - Sunday School
-    - Church History
+  - Sunday School Class
+  - Church History
 ---
 
 My friend Matthew Ezzell and I taught a Sunday school class on American Presbyterian History at [Shiloh Presbyterian Church](https://shilohopc.org).
