@@ -4,6 +4,7 @@ date: 2024-10-09T10:54:00.000Z
 tags:
   - Podcast
   - Diaconate
+  - OPC CDM Podcast
 ---
 On the [OPC Committee on Diaconal Ministries](https://opccdm.org) podcast, I spoke with several brothers about the OPC CDM and Committee on Ministerial Care about these committees and how they serve our church. 
 
