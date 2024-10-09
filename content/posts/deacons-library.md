@@ -2,6 +2,10 @@
 title: "A Deacon's Personal Library"
 date: 2023-07-01
 draft: false
+tags:
+  - Podcast
+  - Diaconate
+  - OPC CDM Podcast
 ---
 
 On the [OPC Committee on Diaconal Ministries](https://opccdm.org) podcast, I interviewed
