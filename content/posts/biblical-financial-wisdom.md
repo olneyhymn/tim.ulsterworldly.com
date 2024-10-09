@@ -1,7 +1,10 @@
 ---
-title: 'Biblical Financial Wisdom'
+title: Biblical Financial Wisdom
 date: 2024-04-01
 draft: false
+tags:
+  - Podcast
+  - Diaconate
 ---
 
 On the [OPC Committee on Diaconal Ministries](https://opccdm.org) podcast, I interviewed
