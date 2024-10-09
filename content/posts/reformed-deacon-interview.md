@@ -12,4 +12,4 @@ On the inaugural episode of the [OPC Committee on Diaconal Ministries](https://o
 
 You can listen [here](https://www.thereformeddeacon.org/1849391/9472090-meet-deacon-tim-hopper).
 
-{{< rd 9472090 >>}}
+{{< rd 9472090 >}}
