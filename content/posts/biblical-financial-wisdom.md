@@ -5,6 +5,7 @@ draft: false
 tags:
   - Podcast
   - Diaconate
+  - OPC CDM Podcast
 ---
 
 On the [OPC Committee on Diaconal Ministries](https://opccdm.org) podcast, I interviewed
