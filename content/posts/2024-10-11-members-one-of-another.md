@@ -1,5 +1,5 @@
 ---
-title: Members One of Another.
+title: Members One of Another
 date: 2016-09-07T12:30:00.000Z
 tags:
   - Sunday School Class
