@@ -16,6 +16,7 @@ You can learn more about me in [this 2021 podcast interview with me](https://tim
 * [Westminster Daily](https://reformedconfessions.com) - Daily reading from the Westminster Confession and Catechisms
 * [Miscellanea](https://quotes.ulsterworldly.com) - Collected quotes from my reading
 * [Reformed Deacon](https://reformeddeacon.com) - Bibliography for reformed deacons
+* [Memories of Congo](https://congo.ulsterworldly.com/) - My great grandfather's memoir
 
 ## Church Membership
 
