@@ -3,9 +3,11 @@ title: About Tim
 date: 2024-11-10
 ---
 
-Since 2013, I have served as a deacon [Shiloh Presbyterian Church](https://shilohopc.org), s congregation of the [Orthodox Presbyterian Church](https://opc.org) in Raleigh, NC. Since 2016, I’ve served as a member and chairman of the OPC Presbytery of the Southeast Commitee on Diaconal Ministries. Since 2021, I have served on the OPC [Committee on Diaconal Ministries](https://opccdm.org), and since 2023 I’ve chair the Diaconal Training Subcommittee. 
+Since 2013, I have served as a deacon [Shiloh Presbyterian Church](https://shilohopc.org), a congregation of the [Orthodox Presbyterian Church](https://opc.org) in Raleigh, NC. Since 2016, I’ve served as a member and chairman of the OPC Presbytery of the Southeast Commitee on Diaconal Ministries. Since 2021, I have served on the OPC [Committee on Diaconal Ministries](https://opccdm.org), and since 2023 I’ve chair the Diaconal Training Subcommittee. 
 
 I have been married to Maggie since 2015 and we have four children. 
+
+You can learn more about me in [this 2021 podcast interview with me](https://tim.ulsterworldly.com/posts/reformed-deacon-interview/).
 
 ## Other Projects
 
