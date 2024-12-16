@@ -3,11 +3,17 @@ title: About Tim
 date: 2024-11-10
 ---
 
-
-
 Since 2013, I have served as a deacon [Shiloh Presbyterian Church](https://shilohopc.org), s congregation of the [Orthodox Presbyterian Church](https://opc.org) in Raleigh, NC. Since 2016, I’ve served as a member and chairman of the OPC Presbytery of the Southeast Commitee on Diaconal Ministries. Since 2021, I have served on the OPC [Committee on Diaconal Ministries](https://opccdm.org), and since 2023 I’ve chair the Diaconal Training Subcommittee. 
 
 I have been married to Maggie since 2015 and we have four children. 
+
+## Other Projects
+
+* [Read Machen](https://readmachen.com) - J. Gresham Machen bibliography
+* [Ulster Worldly](https://ulsterworldly.com) - Blog about presbyterian history
+* [Westminster Daily](https://reformedconfessions.com) - Daily reading from the Westminster Confession and Catechisms
+* [Miscellanea](https://quotes.ulsterworldly.com) - Collected quotes from my reading
+* [Reformed Deacon](https://reformeddeacon.com) - Bibliography for reformed deacons
 
 ## Church Membership
 
