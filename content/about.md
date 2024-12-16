@@ -9,6 +9,8 @@ I have been married to Maggie since 2015 and we have four children.
 
 You can learn more about me in [this 2021 podcast interview with me](https://tim.ulsterworldly.com/posts/reformed-deacon-interview/).
 
+By day, I'm a computer programmer. You can learn more about that side on my [professional website](https://tdhopper.com).
+
 ## Other Projects
 
 * [Read Machen](https://readmachen.com) - J. Gresham Machen bibliography
