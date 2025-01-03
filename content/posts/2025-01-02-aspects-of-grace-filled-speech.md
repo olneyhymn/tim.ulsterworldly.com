@@ -50,7 +50,14 @@ The [Westminster Larger Catechism](http://opc.org/lc.html) shows us how each of 
 
 ### 9th Commandment
 
-* Requires "preserving and promoting of truth between man and man, and the good name of our neighbor, as well as our own; appearing and standing for the truth; and from the heart, sincerely, freely, clearly, and fully, speaking the truth, and only the truth, in matters of judgment and justice, and in all other things whatsoever; a charitable esteem of our neighbors; loving, desiring, and rejoicing in their good name; sorrowing for and covering of their infirmities; freely acknowledging of their gifts and graces, defending their innocency; a ready receiving of a good report, and unwillingness to admit of an evil report, concerning them; discouraging talebearers, flatterers, and slanderers; love and care of our own good name, and defending it when need requireth; keeping of lawful promises; studying and practicing of whatsoever things are true, honest, lovely, and of good report"
+* Requires "preserving and promoting of truth between man and man, and the good name of our neighbor, as well as our own"
+* Requires "appearing and standing for the truth and from the heart, sincerely, freely, clearly, and fully, speaking the truth, and only the truth, in matters of judgment and justice, and in all other things whatsoever"
+* Requires "a charitable esteem of our neighbors; loving, desiring, and rejoicing in their good name; sorrowing for and covering of their infirmities; freely acknowledging of their gifts and graces, defending their innocency"
+* Requires "a ready receiving of a good report, and unwillingness to admit of an evil report, concerning them"
+* Requires "discouraging talebearers, flatterers, and slanderers"
+* Requires "love and care of our own good name, and defending it when need requireth"
+* Requires "keeping of lawful promises"
+* Requires "studying and practicing of whatsoever things are true, honest, lovely, and of good report"
 * Forbids "speaking untruth, lying, slandering, backbiting, detracting, talebearing, whispering, scoffing, reviling, rash, harsh, and partial censuring"
 
 ### 10th Commandment
