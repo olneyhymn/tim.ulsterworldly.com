@@ -1,5 +1,5 @@
 ---
-title: The world is a museum of passion projects
+title: The church is a museum of passion projects
 date: 2025-01-30T11:10:00.000Z
 ---
 John Collison, co-founder of [Stripe](<>), [tweeted in 2022](https://x.com/collision/status/1529452415346302976): 
