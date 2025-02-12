@@ -25,6 +25,6 @@ By day, I'm a computer programmer. You can learn more about that side on my [pro
 * 1986–2002: Princeton Bible Church, Princeton, WV
 * 2002–2005: [Westminster Presbyterian Church (EPC)](https://wpcbluefield.com), Bluefield, WV
 * 2005–2008: [Hillcrest Presbyterian Church](https://www.hillcrestpresbyterian.org), Volant, PA
-* 2008–2009: [Maryville Evangelical Church](PCA), Maryville, TN
+* 2008–2009: [Maryville Evangelical Church](https://www.smokymountainpca.org), Maryville, TN
 * 2009–2010: [Providence Presbyterian Church (OPC)](https://www.popc-cville.org), Charlottesville, VA
 * 2010–present: [Shiloh Presbyterian Church (OPC)](https://shilohopc.org), Raleigh, NC
