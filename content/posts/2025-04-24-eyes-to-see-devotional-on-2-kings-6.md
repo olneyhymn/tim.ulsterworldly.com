@@ -6,6 +6,7 @@ tags:
 ---
 ## 2 Kings 6:1-17 (ESV)
 
+
 > Now the sons of the prophets said to Elisha, “See, the place where we dwell under your
 > charge is too small for us. 2 Let us go to the Jordan and each of us get there a log,
 > and let us make a place for us to dwell there.” And he answered, “Go.” 3 Then one of
@@ -39,13 +40,16 @@ tags:
 > and he saw, and behold, the mountain was full of horses and chariots of fire all
 > around Elisha.
 
+
 ### I. Introduction: Historical Context
+
 
 * Setting: Northern Kingdom of Israel possibly during the reign of King Jehoram (c.
   850--840 BC).
 * Threat: Israel faced constant border threats from Aram-Damascus possibly under King
   Ben-Hadad II.
 * Condition of Israel: 
+
 
   * Spiritually compromised
   * Politically unstable
@@ -55,9 +59,12 @@ tags:
 * Dothan Incident: Aram sends a covert force to capture Elisha, viewing him as a
   strategic threat.
 
+
 ### II. The Story (vv. 8--23)
 
+
 1. Elisha Foils Syrian Plans (vv. 8--12)
+
 
    * Elisha warns Israel multiple times.
    * King of Syria is frustrated: "Who is the traitor?"
@@ -65,20 +72,26 @@ tags:
      bedroom."
 2. Syrian Army Surrounds Dothan (vv. 13--15)
 
+
    * Elisha's servant wakes up to see an army encircling them.
    * In fear, he cries: "Alas, my master! What shall we do?"
 3. Elisha's Response and Prayer (vv. 16--17)
+
 
    * "Fear not, for they that be with us are more than they that be with them."
    * Elisha prays: "Lord, open his eyes that he may see."
    * The servant sees chariots of fire surrounding Elisha.
 
+
 ### III. Reflections and Applications
+
 
 #### 1. The Spiritual Realm Is More Real Than We Realize
 
+
 * The servant needed eyes of faith--not better circumstances, but clearer sight.
 * Spurgeon:
+
 
   > THE believer in Christ sees much more than any other man sees. There is a proverb
   > which says, "Seeing is believing;" but that is not true, for there are many
@@ -94,9 +107,12 @@ tags:
   eyes.
 * We need to pray for eyes to see.
 
+
 #### 2. God's Protection Is Real and Mighty--Even When Invisible
 
+
 * "They that are with us are more than they that are with them."
+
 
   * How true this is!
   * Psalm 91 promises "He will command His angels concerning you to guard you in all
@@ -105,8 +121,10 @@ tags:
 * Even with Israel was in decline, but God still watched over His people.
 * Dale Ralph Davis notes this was written to the people in exile 300 years later
 
+
   * They probably did not see the chariots of fire!
   * Davis:
+
 
   > Of course, the experience of Jesus instructs us that the unseen protection is
   > present even if it is not 'activated'. Jesus rebuked Peter in Gethsemane with 'Or
@@ -117,12 +135,27 @@ tags:
   > as if Jesus turns and says quietly, 'Peter, I don't lack resources.' Which means
   > that Jesus knew and lived under the unseen protection of 2 Kings 6:8--23. 
 
+* Calvin said there's no value in knowing that we have one angel as a special
+  guardian when we have the host of heaven watching over us.
+
+ 
+  > If any one does not think it enough to know that all the orders of the
+  > heavenly host are perpetually watching for his safety, I do not see what he
+  > could gain by knowing that he has one angel as a special guardian. Those,
+  > again, who limit the care which God takes of each of us to a single angel,
+  > do great injury to themselves and to all the members of the Church, as if
+  > there were no value in those promises of auxiliary troops, who on every side
+  > encircling and defending us, embolden us to fight more manfully.
+
+
 #### 3. Fear Not--God Acts
+
 
 * Elisha's servant was afraid.
 * But Elisha was not afraid.
 * Why? 
 * Spurgeon:
+
 
   > And his servant said unto him, Alas, my Master! What shall we do? That is a
   > question we have often asked, "What shall we do?" We shall do nothing at all!
@@ -130,18 +163,23 @@ tags:
   > proper question is, "What will God do? How will God deliver us?"
 * We must preach to ourselves the truth of God's care and protection.
 
+
   * Matthew Henry: "When we are magnifying the causes of our fear we ought to possess
     ourselves with clear, and great, and high thoughts of God and the invisible world.
     If God be for us, we know what follows, Rom. 8:31."
 * Ultimately God's care is shown in that he conquered his and our enemies not with a
   mighty host, but the Savior on the cross (Col. 2:15).
 
+
   > He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him.
+
 
 #### 4. The Power of Intercessory Prayer
 
-* Elisha prays three times: for sight, for blindness, and again for mercy.
+
+* Elisha prays for others three times in Acts 6: for sight, for blindness, and again for mercy.
 * C.H. Irwin:
+
 
   > Elisha's prayers prevailed three times in this short narrative. There may be some
   > one known to us whose eyes are closed, who is spiritually blind. Have we brought
@@ -153,7 +191,9 @@ tags:
   faint-hearted is to pray for them, and so to recommend them to the mighty grace of
   God."
 
+
 ### IV. Closing Charge
+
 
 * When you feel surrounded, pray not just for rescue--but for sight.
 * Don't measure your situation by what is visible. "We walk by faith, not by sight."
