@@ -7,7 +7,7 @@ tags:
 ## 2 Kings 6:1-17 (ESV)
 
 
-> Now the sons of the prophets said to Elisha, “See, the place where we dwell under your
+> 1 Now the sons of the prophets said to Elisha, “See, the place where we dwell under your
 > charge is too small for us. 2 Let us go to the Jordan and each of us get there a log,
 > and let us make a place for us to dwell there.” And he answered, “Go.” 3 Then one of
 > them said, “Be pleased to go with your servants.” And he answered, “I will go.” 4 So
@@ -177,7 +177,7 @@ tags:
 #### 4. The Power of Intercessory Prayer
 
 
-* Elisha prays for others three times in Acts 6: for sight, for blindness, and again for mercy.
+* Elisha prays for others three times in 2 Kings 6: for sight, for blindness, and again for mercy.
 * C.H. Irwin:
 
 
