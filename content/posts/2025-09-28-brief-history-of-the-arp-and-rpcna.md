@@ -7,9 +7,9 @@ tags:
   - 2022 Presbyterian History Class
 ---
 <iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/925221615301921/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
-## Introduction
 
-Understanding these the Reformed Presbyterian Church of North America (RPCNA) and the Associate Reformed Presbyterian Church (ARP) helps explain why we have sister Presbyterian churches today, all part of NAPARC (North American Presbyterian and Reformed Council), yet with distinct histories that kept us separate. It also illustrates how the Lord preserves His church through complicated, tangled histories involving sinful people and sometimes senseless splits.
+
+Understanding the Reformed Presbyterian Church of North America (RPCNA) and the Associate Reformed Presbyterian Church (ARP) helps explain why we have sister Presbyterian churches today, all part of NAPARC (North American Presbyterian and Reformed Council), yet with distinct histories that kept us separate. It also illustrates how the Lord preserves His church through complicated, tangled histories involving sinful people and sometimes senseless splits.
 
 ## The Geographic Context
 
