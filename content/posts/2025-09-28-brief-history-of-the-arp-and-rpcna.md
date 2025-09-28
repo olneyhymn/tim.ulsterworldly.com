@@ -55,15 +55,9 @@ One poignant story illustrates the personal cost: James, Ebenezer Erskine's son-
 
 In 1782, about 1,500 Seceders and 600 Covenanters united to form the Associate Reformed Presbyterian Church. Both groups considered themselves more faithful and strict than the emerging mainline Presbyterian church. They shared several distinctive practices:
 
-* **Closed communion**
-
-  : Only church members could partake of the Lord's Supper
-* **Opposition to "occasional hearing"**
-
-  : Members shouldn't worship in other denominations' churches
-* **Exclusive psalm singing**
-
-  : They used only the 1650 Psalter, rejecting Isaac Watts' psalm renditions that some mainline churches had adopted
+* **Closed communion**: Only church members could partake of the Lord's Supper
+* **Opposition to "occasional hearing"**: Members shouldn't worship in other denominations' churches
+* **Exclusive psalm singing**: They used only the 1650 Psalter, rejecting Isaac Watts' psalm renditions that some mainline churches had adopted
 
 The new ARP was organized into three presbyteries: one for central and western Pennsylvania, one for the Philadelphia area extending south to South Carolina, and one for New York reaching into Canada.
 
