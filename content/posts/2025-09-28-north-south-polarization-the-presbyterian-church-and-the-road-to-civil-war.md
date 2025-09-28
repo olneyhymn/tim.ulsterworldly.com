@@ -18,9 +18,9 @@ This was an era of explosive growth. The Louisiana Purchase in 1803 had dramatic
 
 The church was growing rapidly during the Second Great Awakening, the age of Charles Finney and widespread revivals. It was also the era of seminary founding. Princeton Seminary was established around 1810-1812, followed by Union Seminary (now in Richmond), Auburn in New York (1818), Pittsburgh Seminary (originally Western Seminary), Columbia Seminary in South Carolina, Lane Seminary in Cincinnati, and many others.
 
-This was also the age of missions, both domestic and foreign. As the nation moved west, there were huge efforts to plant churches and spread the gospel on the frontier. The Presbyterian Church sent its first missionaries to Liberia in the 1830s—a nation formed on the African coast where many hoped freed slaves could return and establish a Christian nation. Missionaries also went to India and what is now Pakistan.
+This was also the age of missions, both domestic and foreign. As the nation moved west, there were huge efforts to plant churches and spread the gospel on the frontier. The Presbyterian Church sent its first missionaries to Liberia in the 1830s, a nation formed on the African coast where many hoped freed slaves could return and establish a Christian nation. Missionaries also went to India and what is now Pakistan.
 
-In 1859, Ashbel Simonton went to Brazil and helped establish the first Presbyterian church there in 1862, followed by a presbytery in 1865. Brazil now has about seven million Presbyterian members in a conservative denomination—more Presbyterians than we have in all of the United States combined.
+In 1859, Ashbel Simonton went to Brazil and helped establish the first Presbyterian church there in 1862, followed by a presbytery in 1865. Brazil now has about seven hundred thousand Presbyterian members in a conservative denomination—more Presbyterians than we have in all of the United States combined.
 
 ## The Two Schools After 1838
 
@@ -28,7 +28,7 @@ After the dramatic split of 1838, we had two mainline Presbyterian denominations
 
 ### The New School Character
 
-The New School was the more moderate group, less strict on confessional subscription, and generally more abolitionist, though there was diversity within both camps. They were concentrated more in the North than the South.
+The New School was the more moderate group, less strict on confessional subscription, and generally more abolitionist, though there was diversity within both camps. They were concentrated more in the North than in the South.
 
 It's important to remember that while historians identify these two distinct parties, most people were probably right in the middle. The moderate New Schoolers and moderate Old Schoolers weren't really all that different. Most ministers and people in the pews were largely centrist—a helpful thing to remember as churches can get polarized over controversy. There's probably often much more unity than appears even within polarization.
 
