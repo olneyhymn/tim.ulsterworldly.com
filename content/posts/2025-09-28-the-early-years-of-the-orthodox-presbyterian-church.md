@@ -6,6 +6,8 @@ tags:
   - Church History
   - 2022 Presbyterian History Class
 ---
+<iframe tabindex="-1" width="100%" height="150" src="https://embed.sermonaudio.com/player/a/116221714537890/" style="min-width: 150px;" frameborder="0" scrolling="no"></iframe>
+
 Today, we'll examine the church's first tumultuous decade—a period that would define the OPC's identity through significant internal conflict and establish the theological foundations that continue to characterize the denomination today.
 
 To understand these early struggles, we need to remember the key milestones leading to the OPC's formation: Westminster Seminary's founding in 1929, the creation of the Independent Board of Foreign Missions around 1931-33, and finally, the establishment of the OPC itself when J. Gresham Machen and others were suspended from the PCUSA ministry.
