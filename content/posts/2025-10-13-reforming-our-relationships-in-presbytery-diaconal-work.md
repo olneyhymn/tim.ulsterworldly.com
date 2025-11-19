@@ -9,6 +9,8 @@ I had the privilege of speaking to the 6th [Presbytery Diaconal Summit](https://
 
 I spoke on the topic of "Reforming our Relationships." The focus of my talk was [2 Corinthians 8–9](https://www.biblegateway.com/passage/?search=2%20Corinthians%208–9&version=ESV), where Paul speaks to the Corinthians about bringing to completion the task he gave in [1 Corinthians 16](https://www.biblegateway.com/passage/?search=1%20Corinthians%2016%3A1-3&version=NIV) to send aid to the Christians in Jerusalem.
 
+{{< vimeo 1136135357 >}}
+
 Here's an outline of my talk:
 
 1. Regional Cooperation in Mercy: The churches of Macedonia and Corinth united to meet the needs of believers in Jerusalem. (8:1, 8:
